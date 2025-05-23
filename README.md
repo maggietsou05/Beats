@@ -7,8 +7,8 @@ Key areas of this experience include:
 - Identifying product strengths and customer pain points
 - Understanding brand perception through sentiment analysis
 - Benchmarking against competitors
-- Translating data into strategic recommendations and reports
+- Translating data into strategic recommendations and reports<br><br>
 
-Data was collected using the Oxylabs Scraper API, with a custom Python script to scrape and structure Amazon product reviews. The full code can be found [here](Amazon_Review_Scraper.ipynb).
+Data was collected using the Oxylabs Scraper API, with a custom Python script to scrape and structure Amazon product reviews. The full code can be found [here](Amazon_Review_Scraper.ipynb).<br>
 The Python scripts utilized to clean the data can be found [here](Beats_Data_Cleaning.ipynb)
 
