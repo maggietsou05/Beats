@@ -10,5 +10,9 @@ Key areas of this experience include:
 - Translating data into strategic recommendations and reports<br><br>
 
 Data was collected using the Oxylabs Scraper API, with a custom Python script to scrape and structure Amazon product reviews. The full code can be found [here](Amazon_Review_Scraper.ipynb)<br><br>
-The Python scripts utilized to clean the data can be found [here](Beats_Data_Cleaning.ipynb)
+The Python scripts utilized to clean the data can be found [here](Beats_Data_Cleaning.ipynb)<br><br>
+
+A competitive analysis using Python and qualitative analysis can be found [here]
+
+
 
