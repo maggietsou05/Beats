@@ -1,5 +1,5 @@
 # Beats by Dr Dre
-This project was completed as part of a consumer analytics externship with **Beats by Dre**, focused on understanding how to decode customer reviews to guide product development and strategy
+This project was completed as part of a consumer analytics externship with **Beats by Dre**, based in California, focused on understanding how to decode customer reviews to guide product development and strategy
 
 In today’s consumer landscape, emotional resonance is just as critical as product specs. My role was to analyze authentic Amazon customer reviews of Beats speakers to uncover business insights.
 
