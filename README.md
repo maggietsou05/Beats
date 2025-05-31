@@ -1,4 +1,4 @@
-# Beats by Dr Dre
+# Consumer Insights Analysis
 <img src="https://github.com/user-attachments/assets/11233608-f2cc-4944-ae09-4519bb68a4b2" width="200"/>
 
 This project was completed as part of a qualitative & quantitative analysis externship with **Beats by Dre**, based in California.
