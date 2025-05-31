@@ -12,6 +12,23 @@ Key areas of this experience include:
 - Performing **sentiment analysis** using TextBlob to classify and analyze brand perception. [> full code](Sentiment_Analysis.ipynb)<br>
 - Translating data into **strategic recommendations and reports**<br><br>
 
+## Executive Summary
+### Overview of Findings
+
+- Sentiment skews positive, but not passionately so.
+- Quality is a core value driver for satisfied buyers, particularly for bass strength and clarity in a compact form. 
+- Low-Rated reviews frequently mentioned charging issues, Bluetooth disconnection, and non-working product upon receiving it.
+- Price is not driving dissatisfaction. In fact, customers who are happy see it as justified. 
+
+![Average Rating](https://github.com/user-attachments/assets/f4a49200-da88-4fd7-8440-e0b35b30169e)
+
+### Competitive Analysis
+
+
+
+
+
+
 
 
 
