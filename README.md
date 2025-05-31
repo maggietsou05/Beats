@@ -23,7 +23,7 @@ Key areas of this experience include:
 ![Average Rating](https://github.com/user-attachments/assets/f4a49200-da88-4fd7-8440-e0b35b30169e)
 
 ### Competitive Analysis (Wireless Speakers)
-- Beats' speakers has a solid average rating (4.62), but exhibits the highest standard deviation among brands, indicating inconsistency across customer experiences.
+- Beats' speakers has a solid average rating (4.62), but exhibits the highest standard deviation among brands, indicating risk of churn due to inconsistency across customer experiences.
 - Brands like JBL and Sony had clusters in the high subjectivity + high polarity range, a sign of stronger emotional engagement, Beats showed less emotionally expressive language in comparison.
 - Without strengthening emotional engagement and resolving inconsistency, Beats risks losing brand preference to competitors.<br><br>
   
