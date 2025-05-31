@@ -1,7 +1,7 @@
 # Beats by Dr Dre
-This project was completed as part of a qualitative & quantitative analysis externship with **Beats by Dre**, based in California.
-![image](https://github.com/user-attachments/assets/c97ffe0d-0d2a-42e6-9403-3e82a45032fb)
+<img src="https://github.com/user-attachments/assets/11233608-f2cc-4944-ae09-4519bb68a4b2" width="200"/>
 
+This project was completed as part of a qualitative & quantitative analysis externship with **Beats by Dre**, based in California.
 
 The company wanted to analyze customer reviews to guide product development and strategy for Beats' Pill Wireless Speakers. The dataset for this project was sourced/scraped from Amazon product reviews for various Beats by Dre audio devices. The dataset contains key information like review text, rating, helpful count, verified purchase status, and product attributes, used for sentiment analysis and insights into consumer experiences.
 
