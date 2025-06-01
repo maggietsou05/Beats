@@ -77,6 +77,8 @@ The following six key factors are based on industry knowledge of what consumers 
 
 <img width="970" alt="image" src="https://github.com/user-attachments/assets/66899d3e-d691-4875-a8cc-4bd566ffe222" />
 
+# Recommendations
+Based on the uncovered insights, the following recommendations are provided:
 
 ## Assumptions and Caveats
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
