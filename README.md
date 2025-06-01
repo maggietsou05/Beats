@@ -15,22 +15,56 @@ Key areas of this experience include:
 ## Executive Summary
 ### Overview of Findings
 
-- Sentiment skews positive, but not passionately so.
+- 76% of Beats product reviews are 5-star ratings, reflecting high customer satisfaction. The polarity score confirms this: reviews are skewed positive, with a few negative outliers.
 - Sound quality is a core value driver for satisfied buyers, particularly for its bass strength and clarity. The lightweight design is also frequently highlighted as positive aspects.
-- Low-rated reviews frequently mentioned charging issues, Bluetooth disconnection, and non-working product upon receiving it. 
+- Themes of gifting, celebration, and personal value are strong in reviews with high sentiment. (polarity > 0.65)
+- Product reliability is a key pain point for low-rated reviews, frequently mentioning charging issues, Bluetooth disconnection, and non-working product upon receiving it. 
 
-![efklsjd](https://github.com/user-attachments/assets/4dbb2be4-11f9-40e2-9694-45cdcaa15af7)
+![dcds](https://github.com/user-attachments/assets/da557b49-3b30-43b1-bfd0-8a2ba8e8c960)
+
 
 ## Insights Deep Dive
 ### Competitive Analysis (Wireless Speakers)
+- Beats ratings fluctuate over time, dipping around 2023 (to ~4.2) before rebounding in 2025.
+- Amazon Echo's late entry in 2024 was rated highly (~4.7), which is a rising threat for Beats Speakers, especially in budget or bundled smart-home audio.
+- JBL Speakers leads with both strong ratings and loyalty, while Beats enjoys higher emotional pull despite mixed consistency. Amazon Echo and LG lag behind as functional but less emotionally resonant brands.
 - Beats' speakers has a solid average rating (4.62), but exhibits the highest standard deviation among brands, indicating risk of churn due to inconsistency across customer experiences.
-- Brands like JBL and Sony had clusters in the high subjectivity + high polarity range, a sign of stronger emotional engagement, Beats showed less emotionally expressive language in comparison.
-- Without strengthening emotional engagement and resolving inconsistency, Beats risks losing brand preference to competitors.<br><br>
   
 ![dfdsjfld](https://github.com/user-attachments/assets/501ba66e-f193-4176-a031-d59c3b357746)
 
+### Sentiment Scores
 
 
+### High-rated Beats Products
+Factor Categories & Associated Keywords:
+
+1. Sound Quality
+- `sound`, `audio`, `bass`, `clarity`, `loud`, `volume`, `noise`, `distortion`, `treble`
+
+2. Design & Looks
+- `design`, `look`, `color`, `style`, `aesthetic`, `sleek`, `compact`, `small`, `size`, `portable`, `lightweight`
+
+3. Battery
+- `battery`, `charge`, `charging`, `power`, `long-lasting`, `recharge`, `life`
+
+4. Connectivity
+- `bluetooth`, `wifi`, `connect`, `connection`, `pair`, `airplay`, `apple`, `android`, `wireless`
+
+5. Durability
+- `durable`, `sturdy`, `rugged`, `solid`, `built`, `build quality`, `waterproof`, `shock`, `reliable`
+
+
+6. Price & Value
+- `price`, `cost`, `value`, `worth`, `cheap`, `expensive`, `deal`, `affordable`
+
+I used these categories to extract factor-specific word frequencies from review text and visualize their distribution across star ratings. This enables insight into **what factors drive positive reviews**.
+
+
+- Factors
+- Dominant words
+- Functionality-related words
+
+### Low-rated Beats Products
 
 
 
