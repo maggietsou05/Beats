@@ -33,7 +33,11 @@ Key areas of this experience include:
 ![dfdsjfld](https://github.com/user-attachments/assets/501ba66e-f193-4176-a031-d59c3b357746)
 
 ### Sentiment Scores
+- Beats’ reviews are notably more positive in comparison to its competitors, but not the most expressive, which may imply customer satisfaction without strong emotional attachment.
+- JBL and LG drive stronger emotional responses, which can be powerful for brand loyalty.
+- Sony’s lower polarity and subjectivity signals a more performance-focused perception, and not as beloved.<br><br>
 
+![image](https://github.com/user-attachments/assets/c2c28f92-90ac-4988-b026-a3dc394a85fc)
 
 ### High-rated Beats Products
 - Sound quality is the standout driver of satisfaction. This is reinforced by the word cloud, where terms like “sound,” “music,” “bass,” and “quality” are visually dominant.
@@ -66,12 +70,12 @@ The following six key factors are based on industry knowledge of what consumers 
 
 
 ### Low-rated Beats Products
+- Battery-related keywords dominate 1-star reviews
+- Sound quality and connectivity are the next most frequently criticized features. Mentions like “weak,” “bass,” “tooth,” “compete,” and “speakers,” further point to sound distortion and Bluetooth issues.
+- Price appears as a frustration factor, despite being mentioned less often.
+- Though qualitative analysis showed broken products, the low frequency of durability complaints implies products often fail early in use, rather than degrading over time.
 
-
-
-
-
-
+<img width="970" alt="image" src="https://github.com/user-attachments/assets/66899d3e-d691-4875-a8cc-4bd566ffe222" />
 
 
 ## Assumptions and Caveats
