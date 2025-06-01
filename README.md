@@ -1,18 +1,18 @@
-# Consumer Insights Analysis
 <img src="https://github.com/user-attachments/assets/11233608-f2cc-4944-ae09-4519bb68a4b2" width="200"/>
 
+# Project Background
 This project was completed as part of a qualitative & quantitative insights externship with **Beats by Dre**, based in California.
 
 The company wanted to analyze customer reviews to guide product development and strategy for Beats' Pill Wireless Speakers. The dataset for this project was sourced/scraped from Amazon product reviews for various Beats by Dre audio devices. The dataset contains key information like review text, rating, helpful count, verified purchase status, and product attributes, used for sentiment analysis and insights into consumer experiences.
 
 Key areas of this experience include:
 - Leveraging web scrapers to collect consumer feedback from Amazon. Data was collected using the Oxylabs Scraper API, with a custom Python script to scrape and structure Amazon product reviews. [> full code](Amazon_Review_Scraper.ipynb)<br>
-- Cleaning messy data. [> full code](Beats_Data_Cleaning.ipynb)<br>
+- Cleaning the scraped data. [> full code](Beats_Data_Cleaning.ipynb)<br>
 - Utilizing **visualization tools** like Matplotlib and Seaborn to uncover trends, outliers, and correlations in the dataset. [> full code](Beats_Visualizations.ipynb)<br>
 - Performing **sentiment analysis** using TextBlob to classify and analyze brand perception. [> full code](Sentiment_Analysis.ipynb)<br>
-- Translating data into **strategic recommendations and reports**<br><br>
+- Translating data into **strategic recommendations**<br><br>
 
-## Executive Summary
+# Executive Summary
 ### Overview of Findings
 
 - 76% of Beats product reviews are 5-star ratings, reflecting high customer satisfaction. The polarity score confirms this: reviews are skewed positive, with a few negative outliers.
@@ -23,7 +23,7 @@ Key areas of this experience include:
 ![dcds](https://github.com/user-attachments/assets/da557b49-3b30-43b1-bfd0-8a2ba8e8c960)
 
 
-## Insights Deep Dive
+# Insights Deep Dive
 ### Competitive Analysis (Wireless Speakers)
 - Beats ratings fluctuate over time, dipping around 2023 (to ~4.2) before rebounding in 2025.
 - Amazon Echo's late entry in 2024 was rated highly (~4.7), which is a rising threat for Beats Speakers, especially in budget or bundled smart-home audio.
@@ -36,35 +36,39 @@ Key areas of this experience include:
 
 
 ### High-rated Beats Products
-Factor Categories & Associated Keywords:
+- Sound quality is the standout driver of satisfaction. This is reinforced by the word cloud, where terms like “sound,” “music,” “bass,” and “quality” are visually dominant.
+- Battery (long-lastig performance) is in second place, and design & looks and connectivity trail closely behind
+- Emotional and usability-driven words such as “love,” “great,” “easy,” “use,” and “comfortable.” suggests that users not only appreciate technical specs but also value how intuitive and enjoyable the product is. <br><br>
 
-1. Sound Quality
-- `sound`, `audio`, `bass`, `clarity`, `loud`, `volume`, `noise`, `distortion`, `treble`
-
-2. Design & Looks
-- `design`, `look`, `color`, `style`, `aesthetic`, `sleek`, `compact`, `small`, `size`, `portable`, `lightweight`
-
-3. Battery
-- `battery`, `charge`, `charging`, `power`, `long-lasting`, `recharge`, `life`
-
-4. Connectivity
-- `bluetooth`, `wifi`, `connect`, `connection`, `pair`, `airplay`, `apple`, `android`, `wireless`
-
-5. Durability
-- `durable`, `sturdy`, `rugged`, `solid`, `built`, `build quality`, `waterproof`, `shock`, `reliable`
+The following six key factors are based on industry knowledge of what consumers typically value in audio devices, and were used to extract factor-specific word frequencies from the reviews:
 
 
-6. Price & Value
-- `price`, `cost`, `value`, `worth`, `cheap`, `expensive`, `deal`, `affordable`
+1. Sound Quality -
+ `sound`, `audio`, `bass`, `clarity`, `loud`, `volume`, `noise`, `distortion`, `treble`
 
-I used these categories to extract factor-specific word frequencies from review text and visualize their distribution across star ratings. This enables insight into **what factors drive positive reviews**.
+2. Design & Looks -
+ `design`, `look`, `color`, `style`, `aesthetic`, `sleek`, `compact`, `small`, `size`, `portable`, `lightweight`
+
+3. Battery -
+ `battery`, `charge`, `charging`, `power`, `long-lasting`, `recharge`, `life`
+
+4. Connectivity -
+ `bluetooth`, `wifi`, `connect`, `connection`, `pair`, `airplay`, `apple`, `android`, `wireless`
+
+5. Durability -
+ `durable`, `sturdy`, `rugged`, `solid`, `built`, `build quality`, `waterproof`, `shock`, `reliable`
 
 
-- Factors
-- Dominant words
-- Functionality-related words
+6. Price & Value -
+ `price`, `cost`, `value`, `worth`, `cheap`, `expensive`, `deal`, `affordable`<br>
+
+<img width="1037" alt="image" src="https://github.com/user-attachments/assets/82e21576-0634-4487-a372-85bdc98794a1" />
+
 
 ### Low-rated Beats Products
+
+
+
 
 
 
