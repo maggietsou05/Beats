@@ -3,6 +3,8 @@
 # Project Background
 This project was completed as part of a qualitative & quantitative insights externship with **Beats by Dre**, based in California.
 
+Beats by Dr. Dre is an audio brand founded in 2006 by Dr. Dre and Jimmy Iovine, offering premium headphones, earphones, and speakers. Beats has gained significant market share through celebrity endorsements, particularly in the higher-priced audio market, and became known for its stylish designs and strong connection to music culture. 
+
 The company wanted to analyze customer reviews to guide product development and strategy for Beats' Pill Wireless Speakers. The dataset for this project was sourced/scraped from Amazon product reviews for various Beats by Dre audio devices. The dataset contains key information like review text, rating, helpful count, verified purchase status, and product attributes, used for sentiment analysis and insights into consumer experiences.
 
 Key areas of this experience include:
@@ -78,7 +80,28 @@ The following six key factors are based on industry knowledge of what consumers 
 <img width="970" alt="image" src="https://github.com/user-attachments/assets/66899d3e-d691-4875-a8cc-4bd566ffe222" />
 
 # Recommendations
-Based on the uncovered insights, the following recommendations are provided:
+Based on the uncovered insights, the following recommendations are provided:<br><br>
+**Anchor product strategy in sound quality and aesthetic appeal**<br>
+- The new speaker line should highlight two core strengths: exceptional audio performance and bold, fashion-forward aesthetics. Survey results and review analysis confirm that sound quality is the top priority for users—mentioned nearly twice as often as any other feature in positive reviews.
+- While many competitors focus on voice assistants or smart features, Beats has an opportunity to differentiate by enhancing the listening experience itself, such as through speakers that use AI to adapt to the room’s acoustics for consistently rich, immersive sound.
+
+**Build emotional loyalty through culture, community, and gifting**
+- Reviews show a high prevalence of positive sentiment around gifting experiences. Position the product as a shared music experience—ideal for holidays, concerts, and social gatherings. Support this through:
+  - Seasonal bundles and co-branded editions with pop artists
+  - Personalization options (e.g. engraving, color packs)
+  - A karaoke mode and mini mic accessories to enhance shared enjoyment
+
+**Strengthen post-purchase experience through better reliability & customer support**
+- Low-rated reviews consistently cite hardware issues and poor customer service. Without raising prices, prioritize:
+  - Tightened quality control during manufacturing
+  - Clearer return/replacement policies and responsive customer service
+
+**Emotionally reposition the brand to deepen loyalty**
+- Beats lags behind JBL in emotional pull despite strong brand recognition. Marketing should focus less on specs and more on connecting music to personal identity and relationships—through storytelling, user-generated content, and influencers within music subcultures, especially given the connection Beats has with pop culture.
+
+
+
+
 
 ## Assumptions and Caveats
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
